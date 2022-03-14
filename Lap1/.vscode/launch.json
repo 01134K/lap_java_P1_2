@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch KBasicjava3",
+            "request": "launch",
+            "mainClass": "KBasicjava3",
+            "projectName": "java_test_d4efb9de"
+        },
+        {
+            "type": "java",
+            "name": "Launch EX2",
+            "request": "launch",
+            "mainClass": "EX2",
+            "projectName": "java_test_d4efb9de"
+        },
+        {
+            "type": "java",
+            "name": "Launch KBasicjava2",
+            "request": "launch",
+            "mainClass": "KBasicjava2",
+            "projectName": "java_test_d4efb9de"
+        },
+        {
+            "type": "java",
+            "name": "Launch lap1",
+            "request": "launch",
+            "mainClass": "lap1",
+            "projectName": "java_test_d4efb9de"
+        },
+        {
+            "type": "java",
+            "name": "Launch KBasicjava4",
+            "request": "launch",
+            "mainClass": "KBasicjava4",
+            "projectName": "java_test_d4efb9de"
+        },
+        {
+            "type": "java",
+            "name": "Launch KBasicjava1",
+            "request": "launch",
+            "mainClass": "KBasicjava1",
+            "projectName": "java_test_d4efb9de"
+        },
+        {
+            "type": "java",
+            "name": "Launch Basicjava4",
+            "request": "launch",
+            "mainClass": "Basicjava4",
+            "projectName": "java_test_d4efb9de"
+        },
+        {
+            "type": "java",
+            "name": "Launch Basicjava3",
+            "request": "launch",
+            "mainClass": "Basicjava3",
+            "projectName": "java_test_d4efb9de"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Basicjava1",
+            "request": "launch",
+            "mainClass": "Basicjava1",
+            "projectName": "java_test_d4efb9de"
+        },
+        {
+            "type": "java",
+            "name": "Launch Basicjava2",
+            "request": "launch",
+            "mainClass": "Basicjava2",
+            "projectName": "java_test_d4efb9de"
+        },
+        {
+            "type": "java",
+            "name": "Launch test1",
+            "request": "launch",
+            "mainClass": "test1",
+            "projectName": "java_test_d4efb9de"
+        }
+    ]
+}
